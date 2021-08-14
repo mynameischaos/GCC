@@ -20,7 +20,7 @@ This repo contains the Pytorch implementation of our paper:
 ## Introduction
 
 <p align="center" >
-    <img src="images/pre.jpg" width="128" height="256" />
+    <img src="images/pre.jpg" width="512" height="1024" />
 
 - Motivation of GCC. (a) Existing contrastive
 learning based clustering methods mainly focus on instancelevel consistency, which maximizes the correlation between selfaugmented samples and treats all other samples as negative samples. (b) GCC incorporates the category information to perform
