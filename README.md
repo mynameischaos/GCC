@@ -3,7 +3,10 @@
 This repo contains the Pytorch implementation of our paper:
 > [Graph Contrastive Clustering](https://arxiv.org/abs/2104.01429)
 >
-> Huasong Zhong, Jianlong Wu, Chong Chen, Jianqiang Huang, Minghua Deng, Liqiang Nie, Zhouchen Lin, Xian-Sheng Hua
+> Huasong Zhong, Jianlong Wu, Chong Chen, Jianqiang Huang, 
+> Minghua Deng, Liqiang Nie, Zhouchen Lin, Xian-Sheng Hua
+- __Accepted at ICCV 2021.
+
 
 ## Contents
 
@@ -16,7 +19,7 @@ This repo contains the Pytorch implementation of our paper:
 
 ## Introduction
 
-- Motivation of the proposed GCC. (a) Existing contrastive
+- Motivation of GCC. (a) Existing contrastive
 learning based clustering methods mainly focus on instancelevel consistency, which maximizes the correlation between selfaugmented samples and treats all other samples as negative samples. (b) GCC incorporates the category information to perform
 the contrastive learning at both the instance and the cluster levels,
 which can better minimize the intra-cluster variance and maximize
