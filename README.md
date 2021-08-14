@@ -20,6 +20,8 @@ This repo contains the Pytorch implementation of our paper:
 
 ## Introduction
 
+- Different from basic contrastive clustering that only assumes an image and its augmentation should share similar representation and clustering assignments, we lift the instancelevel consistency to the cluster-level consistency with the assumption that samples in one cluster and their augmentations should all be similar.
+
 <p align="center" >
     <img src="images/pre.jpg" width="400" height="500" />
 
