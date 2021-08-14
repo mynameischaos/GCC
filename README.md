@@ -22,7 +22,7 @@ the contrastive learning at both the instance and the cluster levels,
 which can better minimize the intra-cluster variance and maximize
 the inter-cluster variance.
 
-<p align="center" width="256" height="512">
+<p align="center" width="128" height="256">
     <img src="images/pre.jpg" />
 
 -  Framework of the proposed Graph Contrastive Clustering. GCC has two heads with shared CNN parameters. The first head is a
@@ -68,9 +68,11 @@ CUDA\_VISIBLE\_DEVICES=0 python selflabel.py --config\_env configs/env.yml --con
 
 If you use GCC in your research or wish to refer to the baseline results published in this paper, please use the following BibTeX entry.
 
+```bibtex
 @article{zhong2021graph,
   title={Graph Contrastive Clustering},
   author={Zhong, Huasong and Wu, Jianlong and Chen, Chong and Huang, Jianqiang and Deng, Minghua and Nie, Liqiang and Lin, Zhouchen and Hua, Xian-Sheng},
   journal={arXiv preprint arXiv:2104.01429},
   year={2021}
 }
+```
