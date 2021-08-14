@@ -1,5 +1,6 @@
 """
-This code is based on the Torchvision repository, which was licensed under the BSD 3-Clause.
+Author: Huasong Zhong
+Licensed under the CC BY-NC 4.0 license (https://creativecommons.org/licenses/by-nc/4.0/)
 """
 import torch
 import torch.nn as nn
