@@ -20,7 +20,7 @@ This repo contains the Pytorch implementation of our paper:
 ## Introduction
 
 <p align="center" >
-    <img src="images/pre.jpg" width="400" height="600" />
+    <img src="images/pre.jpg" width="400" height="500" />
 
 - Motivation of GCC. (a) Existing contrastive
 learning based clustering methods mainly focus on instancelevel consistency, which maximizes the correlation between selfaugmented samples and treats all other samples as negative samples. (b) GCC incorporates the category information to perform
@@ -28,12 +28,13 @@ the contrastive learning at both the instance and the cluster levels,
 which can better minimize the intra-cluster variance and maximize
 the inter-cluster variance.
 
--  Framework of the proposed Graph Contrastive Clustering. GCC has two heads with shared CNN parameters. The first head is a
-representation graph contrastive (RGC) module, which helps to learn clustering-friendly features. The second head is an assignment graph
-contrastive (AGC) module, which leads to a more compact cluster assignment.
 
 <p align="center">
     <img src="images/main.jpg" />
+
+-  Framework of the proposed Graph Contrastive Clustering. GCC has two heads with shared CNN parameters. The first head is a
+representation graph contrastive (RGC) module, which helps to learn clustering-friendly features. The second head is an assignment graph
+contrastive (AGC) module, which leads to a more compact cluster assignment.
 
 ## Installation
 ```shell
