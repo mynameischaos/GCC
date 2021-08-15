@@ -83,7 +83,7 @@ CUDA_VISIBLE_DEVICES=0 python selflabel.py --config_env configs/env.yml --config
 
 | Dataset          | Loss              | ACC                   |  NMI            |  ARI      |Download link |
 |------------------|-------------------|---------------------- |-----------------|-----------|--------------|
-| CIFAR10          |  RGC+AGC        | 85.9                  | 77.25            | 73.4      |[Download](https://drive.google.com/file/d/1OlZRLo9449fs6-MEJgrsK5qTC8AyZZHF/view?usp=sharing)  |
+| CIFAR10          |  RGC+AGC        | 85.9                  | 77.2            | 73.4      |[Download](https://drive.google.com/file/d/1OlZRLo9449fs6-MEJgrsK5qTC8AyZZHF/view?usp=sharing)  |
 | CIFAR100         |  RGC+AGC        | 48.1                  | 48.1            | 31.8      |[Download](https://drive.google.com/file/d/1OlZRLo9449fs6-MEJgrsK5qTC8AyZZHF/view?usp=sharing)  |
 | STL10            |  RGC+AGC        | 78.0                  | 68.6            |  63.5     |[Download](https://drive.google.com/file/d/1OlZRLo9449fs6-MEJgrsK5qTC8AyZZHF/view?usp=sharing)  |
 
