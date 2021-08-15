@@ -3,8 +3,8 @@
 This repo contains the Pytorch implementation of our paper:
 > [Graph Contrastive Clustering](https://arxiv.org/abs/2104.01429)
 >
-> [Huasong Zhong^\*]{https://scholar.google.com/citations?user=BLE1mzgAAAAJ&hl=zh-CN}, [Jianlong Wu^\*]{https://jlwu1992.github.io/}, [Chong Chen]{https://scholar.google.com/citations?user=DyeODPUAAAAJ&hl=en}, Jianqiang Huang, 
-> [Minghua Deng]{https://scholar.google.com/citations?user=u7NoLQYAAAAJ&hl=zh-CN}, [Liqiang Nie]{https://scholar.google.com/citations?user=yywVMhUAAAAJ&hl=en}, [Zhouchen Lin]{https://zhouchenlin.github.io/}, [Xian-Sheng Hua]{https://scholar.google.com/citations?user=6G-l4o0AAAAJ&hl=zh-CN}
+> [Huasong Zhong\*](https://scholar.google.com/citations?user=BLE1mzgAAAAJ&hl=zh-CN), [Jianlong Wu\*]{https://jlwu1992.github.io}, [Chong Chen](https://scholar.google.com/citations?user=DyeODPUAAAAJ&hl=en), Jianqiang Huang, 
+> [Minghua Deng](https://scholar.google.com/citations?user=u7NoLQYAAAAJ&hl=zh-CN), [Liqiang Nie](https://scholar.google.com/citations?user=yywVMhUAAAAJ&hl=en), [Zhouchen Lin](https://zhouchenlin.github.io), [Xian-Sheng Hua](https://scholar.google.com/citations?user=6G-l4o0AAAAJ&hl=zh-CN)
 - Accepted at ICCV 2021.
 
 
