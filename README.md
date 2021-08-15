@@ -83,7 +83,7 @@ CUDA_VISIBLE_DEVICES=0 python selflabel.py --config_env configs/env.yml --config
 
 | Dataset          | Download link |
 |------------------|---------------| 
-|CIFAR10           | [Download](https://drive.google.com/file/d/1Se2ISR340uvorwsbdg1c5nugoJga3xFh/view?usp=sharing)  |
+|CIFAR10           | [Download]()  |
 |CIFAR100          | [Download]()  |
 |STL10             | [Download]()  |
 
