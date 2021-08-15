@@ -77,15 +77,15 @@ CUDA_VISIBLE_DEVICES=0 python selflabel.py --config_env configs/env.yml --config
 <p align="center">
     <img src="images/res.jpg" />
 
-- Our results are 12.9%, 10.5%, 4.1% higher than that of the second best method [DRC](https://arxiv.org/abs/2008.03030) on CIFAR10, CIFAR-100 and STL-10, respectively.
+- Our results are 12.9%, 10.5%, 4.1% higher than that of the second best method [DRC](https://arxiv.org/abs/2008.03030) on CIFAR10, CIFAR-100 and STL-10, respectively. The results have some volatility, which can be improved by more attempts.
 
 ## Models
 
 | Dataset          | Download link |
 |------------------|---------------| 
-|CIFAR10           | [Download]()  |
-|CIFAR100          | [Download]()  |
-|STL10             | [Download]()  |
+|CIFAR10           | [Download](https://drive.google.com/file/d/1OlZRLo9449fs6-MEJgrsK5qTC8AyZZHF/view?usp=sharing)  |
+|CIFAR100          | [Download](https://drive.google.com/file/d/1OlZRLo9449fs6-MEJgrsK5qTC8AyZZHF/view?usp=sharing)  |
+|STL10             | [Download](https://drive.google.com/file/d/1OlZRLo9449fs6-MEJgrsK5qTC8AyZZHF/view?usp=sharing)  |
 
 ## Citation 
 
