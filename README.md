@@ -16,6 +16,7 @@ This repo contains the Pytorch implementation of our paper:
 0. [Testing](#test)
 0. [Self-labeling](#self-labeling)
 0. [Results](#results)
+0. [Models](#models)
 0. [Citation](#citation)
 
 ## Introduction
@@ -77,6 +78,14 @@ CUDA_VISIBLE_DEVICES=0 python selflabel.py --config_env configs/env.yml --config
     <img src="images/res.jpg" />
 
 - Our results are 12.9%, 10.5%, 4.1% higher than that of the second best method [DRC](https://arxiv.org/abs/2008.03030) on CIFAR10, CIFAR-100 and STL-10, respectively.
+
+## Models
+
+| Dataset          | Download link |
+|------------------|---------------| 
+|CIFAR10           | [Download](https://drive.google.com/file/d/1Cl5oAcJKoNE5FSTZsBSAKLcyA5jXGgTT/view?usp=sharing)  |
+|CIFAR100          | [Download](https://drive.google.com/file/d/1huW-ChBVvKcx7t8HyDaWTQB5Li1Fht9x/view?usp=sharing)  |
+|STL10             | [Download](https://drive.google.com/file/d/1261NDFfXuKR2Dh4RWHYYhcicdcPag9NZ/view?usp=sharing)  |
 
 ## Citation 
 
