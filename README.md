@@ -93,10 +93,10 @@ CUDA_VISIBLE_DEVICES=0 python selflabel.py --config_env configs/env.yml --config
 If you use GCC in your research or wish to refer to the baseline results published in this paper, please use the following BibTeX entry.
 
 ```bibtex
-@article{zhong2021graph,
+@inproceedings{zhong2021graph,
   title={Graph Contrastive Clustering},
   author={Zhong, Huasong and Wu, Jianlong and Chen, Chong and Huang, Jianqiang and Deng, Minghua and Nie, Liqiang and Lin, Zhouchen and Hua, Xian-Sheng},
-  journal={arXiv preprint arXiv:2104.01429},
+  booktitle={IEEE ICCV},
   year={2021}
 }
 ```
