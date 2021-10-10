@@ -83,9 +83,9 @@ CUDA_VISIBLE_DEVICES=0 python selflabel.py --config_env configs/env.yml --config
 
 | Dataset          | Loss              | ACC                   |  NMI            |  ARI      |Download link |
 |------------------|-------------------|---------------------- |-----------------|-----------|--------------|
-| CIFAR-10          |  RGC+AGC        | 85.9                  | 77.2            | 73.4      |[Download](https://drive.google.com/drive/folders/1Arz0zzXdo0l4pd-DxA_5UbfhHN_klXCy?usp=sharing)  |
-| CIFAR-100         |  RGC+AGC        | 48.1                  | 48.1            | 31.8      |[Download](https://drive.google.com/drive/folders/1yOPKu_JJDhfdlchYv552up3yuEoILxzl?usp=sharing)  |
-| STL-10            |  RGC+AGC        | 78.0                  | 68.6            |  63.5     |[Download](https://drive.google.com/drive/folders/1uH_4Yy1nLl7dAj7kzJvMbFro9V50sBvE?usp=sharing)  |
+| CIFAR-10          |  RGC+AGC        | 85.9                  | 77.2            | 73.4      |[Download](https://drive.google.com/drive/folders/1wBXq_WNeST7XBc_aD-200yCOgd_DosgV?usp=sharing)  |
+| CIFAR-100         |  RGC+AGC        | 48.1                  | 48.1            | 31.8      |[Download](https://drive.google.com/drive/folders/1Q66j3Dh8H3lSMjEq7iqDRo-vres6Wgcr?usp=sharing)  |
+| STL-10            |  RGC+AGC        | 78.0                  | 68.6            |  63.5     |[Download](https://drive.google.com/drive/folders/1MK8YXSJoEqh2kYrvQzq3J3R5PDUP5Uw_?usp=sharing)  |
 - Set the 'root_dir' in config/env.yml to the download models and run the test scripts.
 
 ## Citation 
