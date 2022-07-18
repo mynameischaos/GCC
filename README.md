@@ -93,10 +93,10 @@ CUDA_VISIBLE_DEVICES=0 python selflabel.py --config_env configs/env.yml --config
 If you use GCC in your research or wish to refer to the baseline results published in this paper, please use the following BibTeX entry.
 
 ```bibtex
-@inproceedings{zhong2021graph,
-  title={Graph Contrastive Clustering},
-  author={Zhong, Huasong and Wu, Jianlong and Chen, Chong and Huang, Jianqiang and Deng, Minghua and Nie, Liqiang and Lin, Zhouchen and Hua, Xian-Sheng},
-  booktitle={IEEE ICCV},
-  year={2021}
+@inproceedings{yingjie2022,
+  title={On Mitigating Hard Clusters for Face Clustering},
+  author={Chen, Yingjie and Zhong, Huasong and Chen, Chong and Shen, Chen and Huang, Jianqiang and Wang, Tao and Liang, Yun and Sun, Qianru},
+  booktitle={IEEE ECCV},
+  year={2022}
 }
 ```
